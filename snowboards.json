@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "length": 122,
+        "color": "red",
+        "has_bindings": false,
+        "brand": "Nitro"
+    },
+    {
+        "id": 2,
+        "length": 163,
+        "color": "black",
+        "has_bindings": true,
+        "brand": "Nitro"
+    },
+    {
+        "id": 3,
+        "length": 118,
+        "color": "magenta",
+        "has_bindings": false,
+        "brand": "Saloman"
+    },
+    {
+        "id": 4,
+        "length": 135,
+        "color": "blue",
+        "has_bindings": true,
+        "brand": "Burton"
+    },
+    {
+        "id": 5,
+        "length": 147,
+        "color": "green",
+        "has_bindings": false,
+        "brand": "Nitro"
+    },
+    {
+        "id": 6,
+        "length": 119,
+        "color": "blue",
+        "has_bindings": true,
+        "brand": "Nitro"
+    },
+    {
+        "id": 7,
+        "length": 156,
+        "color": "green",
+        "has_bindings": false,
+        "brand": "Saloman"
+    },
+    {
+        "id": 8,
+        "length": 150,
+        "color": "red",
+        "has_bindings": true,
+        "brand": "Burton"
+    },
+    {
+        "id": 9,
+        "length": 150,
+        "color": "red",
+        "has_bindings": true,
+        "brand": "Burton"
+    }
+]
